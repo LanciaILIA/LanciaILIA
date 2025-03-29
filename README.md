@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 ML/DL-инженер
 
-🌍 Я живу во Тамбове
-👨‍🎓 Учусь в академии нейросетей The Founder
-📞 Вы можете связаться со мной по TG: @ilia_tambov
+🌍 Я живу во Тамбове <hr>
+👨‍🎓 Учусь в академии нейросетей The Founder <hr>
+📞 Вы можете связаться со мной по TG: @ilia_tambov <hr>
 
 👨‍💻 Обо мне
 
