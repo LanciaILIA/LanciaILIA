@@ -23,4 +23,8 @@
 
 [**Segmentation-of-the-lungs**](https://github.com/LanciaILIA/Segmentation-of-the-lungs) - модель семантической сегментации анализирует медицинские изображения и проводит границы вокруг интересующих объектов (в данном случае легких). Это помогает медицинским специалистам в обнаружении медицинских проблем и может потенциально диагностировать заболевания.
 
-**Стек:**  keras, numpy, pandas, matplotlib.pyplot
+**Стек:**  keras, numpy, pandas, matplotlib.pyplot <hr>
+
+[**fake-news**](https://github.com/LanciaILIA/fake-news) - модель классического машинного обучения, которая с высокой точностью более 90% определяет, является ли новость реальной (REAL） или фальшивой（FAKE).
+
+**Стек:**  sklearn, numpy, pandas, matplotlib.pyplot
